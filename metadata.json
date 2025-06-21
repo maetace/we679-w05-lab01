@@ -1,0 +1,7 @@
+{
+  "name": "DRIs Chatbot (Thai DRIs 2020)",
+  "description": "Chatbot to answer questions based on the provided PDF document about Dietary Reference Intake for Thais 2020.",
+  "dynamicColor": true,
+  "requestFramePermissions": [],
+  "prompt": ""
+}
